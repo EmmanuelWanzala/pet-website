@@ -4,11 +4,11 @@
 ## Description
 {This is a website about my favorite pets,its purpose is toprovide information about my favorite pet.The website gives information about my two favorite animals.}
 ## Setup/Installation Requirements
-* This is a great place
-* to list setup instructions
-* in a simple
-* easy-to-understand
-* format
+* Have at least 50 MB space
+* Search the app on git hub
+* Click on download
+* Set up an account 
+* Set up a prophile and start playing.
 {You do not need to run a server.There is no need to install dependencies.this website does not depend on any other code.}
 ## Known Bugs
 {All issues have been resolved}
